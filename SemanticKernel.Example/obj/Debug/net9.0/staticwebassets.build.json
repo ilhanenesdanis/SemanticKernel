@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vI+jQnQOv1SWmTi5RhbSglV7pRRUASnFBrqezN7jC/o=",
+  "Source": "SemanticKernel.Example",
+  "BasePath": "_content/SemanticKernel.Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
