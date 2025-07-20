@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtensionAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cdf938da06011c4626f48c532ec5c0d70d3a855")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24df0b03864e209d38d75107c8c552eba443b9c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtensionAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtensionAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
